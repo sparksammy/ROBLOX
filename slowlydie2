@@ -1,4 +1,4 @@
-while wait() do
+while wait(15) do
 for _,v in pairs(game.Players:players()) do
 if v ~= game.Players.LocalPlayer then
 v:Move(Vector3.new(math.huge*0))
