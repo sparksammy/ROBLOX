@@ -65,7 +65,7 @@ local Gravity_V4 = {
                
         };
         _Ranks={
-                {Name="NikePro2004",Rank=7,Antilocal=false,Chat=true,Spin=true,SpinRot=true,Color='Really black',Tab='Tablet',MeshID=1285237,MeshSCALEX=2,MeshSCALEY=2,MeshSCALEZ=2},
+                {Name="Sam_Lord",Rank=7,Antilocal=false,Chat=true,Spin=true,SpinRot=true,Color='Really black',Tab='Tablet',MeshID=1285237,MeshSCALEX=2,MeshSCALEY=2,MeshSCALEZ=2},
                 {Name="iLordVex",Rank=3,Antilocal=false,Chat=true,Spin=true,SpinRot=false,Color='White',Tab='Tablet',MeshID=1285237,MeshSCALEX=2,MeshSCALEY=2,MeshSCALEZ=2},
                 {Name="Player",Rank=3,Antilocal=false,Chat=true,Spin=true,SpinRot=false,Color='White',Tab='Tablet',MeshID=1285237,MeshSCALEX=2,MeshSCALEY=2,MeshSCALEZ=2},
                 {Name="LordRevorius",Rank=6,Antilocal=false,Chat=true,Spin=true,SpinRot=false,Color='White',Tab='Tablet',MeshID=1285237,MeshSCALEX=2,MeshSCALEY=2,MeshSCALEZ=2},
