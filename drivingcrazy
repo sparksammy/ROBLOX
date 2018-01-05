@@ -1,0 +1,10 @@
+while wait() do
+  for i, player in ipairs(game.Players:GetPlayers()) do
+	  if player.Character then
+		  local hum = player.Character:FindFirstChild('Humanoid')
+		  if hum then
+			  hum.Health = 0
+		  end
+	  end
+  end
+end
