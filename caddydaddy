@@ -1,4 +1,4 @@
-local badgeID = 1063102800 -- replace this with the badge's ID
+local badgeID = 1060922754 -- replace this with the badge's ID
 local badgeService = game:GetService("BadgeService")
 badgeService:AwardBadge(265407551, badgeID)
 game.Players.PlayerAdded:connect(onEntered)
